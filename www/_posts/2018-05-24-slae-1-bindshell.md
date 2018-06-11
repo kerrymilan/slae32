@@ -163,8 +163,6 @@ int main(int argc, char **argv) {
 }
 {% endhighlight %}
 
-[Screenshot of compilation and execution]
-
 Next, I used the C code as the basis for an ASM implementation.
 
 ## ASM Implementation 
